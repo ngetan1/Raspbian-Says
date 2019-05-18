@@ -1,15 +1,12 @@
 package com.example.raspbiansays;
 
-import android.app.ProgressDialog;
-import android.bluetooth.BluetoothAdapter;
-import android.bluetooth.BluetoothDevice;
-import android.bluetooth.BluetoothManager;
+
 import android.bluetooth.BluetoothSocket;
-import android.content.Context;
+
 import android.content.Intent;
-import android.content.pm.PackageManager;
+
 import android.graphics.Color;
-import android.os.AsyncTask;
+
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
@@ -20,16 +17,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.firebase.FirebaseApp;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.firestore.FirebaseFirestore;
-
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.UUID;
+
 
 
 public class MainActivity extends AppCompatActivity {
