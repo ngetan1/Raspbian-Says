@@ -15,11 +15,11 @@ https://thepi.io/how-to-install-raspbian-on-the-raspberry-pi/
 
 Then, turn on bluetooth, on both android device and Raspberry PI, and go to  their bluetooth settings and pair them if you haven’t done so. Here is more information on how to pair your android phone with Raspberry Pi: https://bluedot.readthedocs.io/en/latest/pairpiandroid.html
 
-After successfully pairing, install the app, Raspbian Says, on your android device. The .apk file is located inside “Raspbian Says Apk” folder. The source code for the android app is located in the folder “Android Raspbian Says Source Code” which can be run using “Android  Studio”
+After successfully pairing, install the app, Raspbian Says, on your android device. The link for the .apk file is here (https://drive.google.com/drive/folders/1Z8oy9UaGwFUshVjnHY72qD5G36TyAcrT?usp=sharing). You can also run the source code for the android app using android studio.
 
 Before opening the app do the following on the Raspberry PI
 
-First save the two .py files (cleanup.py and raspbiansays.pi) located under folder, “PI Raspbian Says Source Code”, in your document section of your Raspberry PI
+First save the two .py files (cleanup.py and raspbiansays.pi) located under folder, “Python Code for Raspberry”, in your document section of your Raspberry PI
 
 Once you have successfully made the board and connected the board to raspberry PI (Look at “Implementation” in “Project Report.docx”)
 
