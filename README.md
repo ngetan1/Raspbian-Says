@@ -1,6 +1,7 @@
 # Raspbian-Says
 ### **by Nahom Getabneh and Prince Nhliziyo**
 
+![](Images/hardware.PNG)
 
 This project is an implementation of the game, Simon Says, on a Raspberry Pi where a user uses an android phone to communicate with the Raspberry Pi and play the game. 
 
@@ -36,6 +37,9 @@ Open the terminal on Raspberry PI then run the commands
 
 If you see this on the terminal then your raspberry has successfully created a server and is waiting for an android phone to accept as a client.
 
+
+![](Images/terminal.PNG)
+
 Then go to the android phone and open the Raspbian Says app.
 
    ●	Click “Connect” and a list of all your paired devices will appear.
@@ -43,12 +47,16 @@ Then go to the android phone and open the Raspbian Says app.
    ●	Select raspberrypi under the list of available devices to connect to the socket on the raspberry PI
 
 
+![](Images/android1.PNG)
+
 
 **Playing the game** 
 
 
    ●	If the Raspberry PI accepts your android device, a “Start Game” button will appear on the android app, where it can be clicked to start the game. 
 
+
+![](Images/android2.PNG)
 
 After clicking Start Game, the LED lights will start to turn on.
 
