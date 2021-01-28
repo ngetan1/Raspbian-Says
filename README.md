@@ -1,5 +1,5 @@
 # Raspbian-Says
-### **by Nahom Getabneh and Prince Nhliziyo**
+### **by Nahom Getaneh and Prince Nhliziyo**
 
 ![](Images/hardware.PNG)
 
